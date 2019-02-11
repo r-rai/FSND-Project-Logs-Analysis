@@ -3,7 +3,7 @@ This project is a reporting tool that prints out reports (in plain text) based o
 program using the psycopg2 module to connect to the database.
 
 #To test this you need to have vagrant installed on your machine.
-*Steps to download vagrant and run tool
+#Steps to download vagrant and run tool
 1. Download and install Vagrant(https://www.vagrantup.com/) and VirtualBox(https://www.virtualbox.org/).
 2. Download/Clone the VM configuration from https://github.com/udacity/fullstack-nanodegree-vm . 
 the path where you have downloaded/clone will be used in next steps
